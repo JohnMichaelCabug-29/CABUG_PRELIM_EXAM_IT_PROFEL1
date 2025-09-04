@@ -1,0 +1,19 @@
+.todo-list table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.todo-list th,
+.todo-list td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.todo-list button {
+  padding: 4px 8px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
